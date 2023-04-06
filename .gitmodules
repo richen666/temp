@@ -1,0 +1,3 @@
+[submodule "standford-cs149"]
+	path = standford-cs149
+	url = https://github.com/stanford-cs149/asst1.git
